@@ -13,6 +13,7 @@ class Animal {
     public void eat() {
         System.out.println("eating");
         System.out.println("now!!!!");
+        System.out.println("right now...");
     }
 }
 
